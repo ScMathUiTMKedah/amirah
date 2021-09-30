@@ -67,24 +67,12 @@ Amirah Hazwani Abdul Rahim, is a senior lecturer at the Faculty of Computer Scie
 
 ### 2. Penyelidikan
 
-<div class="row">
-  <div class="column">"Tajuk"</div>
-  <div class="column">"Amaun Geran Diterima"</div>
-  <div class="column">"Penaja"</div>
-  <div class="column">"Tarikh Mula & Tamat"</div>
-</div>
-
-+-----------------------------------------------------------------------------------------------------------------+-----------------------+--------+----------------------+
-| Tajuk                                                                                                           | Amount Grant Diterima | Penaja | Tarikh Mula & Tamat  |
-+:===============================================================================================================:+:=====================:+:======:+:====================:+
-| Excellend Fund - Partial Least Squares Based Financial Distressed Classifying Model of Small Construction Firms | RM5,000               |        | 2013-2014            |
-+-----------------------------------------------------------------------------------------------------------------+-----------------------+--------+----------------------+
-| Partial Least Squares Based Bankruptcy Classification Model of Malaysian Small Firms                            | RM54,590              | RAGS   | 2013-2015            |
-+-----------------------------------------------------------------------------------------------------------------+-----------------------+--------+----------------------+
-| Performance of Bankruptcy Prediction Model on Imbalanced Dataset                                                | RM1,000               |        | 2017-2018            |
-+-----------------------------------------------------------------------------------------------------------------+-----------------------+--------+----------------------+
-| Belief Function Level of Evidence As A Novel Measure of Distance To Default                                     | RM80,630              | FRGS   | 1/9/2019 - 30/5/2023 |
-+-----------------------------------------------------------------------------------------------------------------+-----------------------+--------+----------------------+
+| Tajuk                            | Amaun Geran Diterima | Penaja | Tarikh Mula & Tamat |
+|:---------------------------------|:--------------------:|:------:|:-------------------:|
+| Excellend Fund - Partial Least Squares Based Financial Distressed Classifying Model of Small Construction Firms| RM5,000 | - | 2013-2014 |
+| Partial Least Squares Based Bankruptcy Classification Model of Malaysian Small Firms| RM54,590 | RAGS | 2013-2015 |
+| Performance of Bankruptcy Prediction Model on Imbalanced Dataset | RM1,000 | - | 2017-2018 |
+| Belief Function Level of Evidence As A Novel Measure of Distance To Default | RM80,630 | FRGS | 1/9/2019 - 30/5/2023 |
 
 ### 3. Penerbitan
 
