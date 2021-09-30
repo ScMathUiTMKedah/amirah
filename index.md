@@ -67,6 +67,13 @@ Amirah Hazwani Abdul Rahim, is a senior lecturer at the Faculty of Computer Scie
 
 ### 2. Penyelidikan
 
+<div class="row">
+  <div class="column">"Tajuk"</div>
+  <div class="column">"Amaun Geran Diterima"</div>
+  <div class="column">"Penaja"</div>
+  <div class="column">"Tarikh Mula & Tamat"</div>
+</div>
+
 +-----------------------------------------------------------------------------------------------------------------+-----------------------+--------+----------------------+
 | Tajuk                                                                                                           | Amount Grant Diterima | Penaja | Tarikh Mula & Tamat  |
 +:===============================================================================================================:+:=====================:+:======:+:====================:+
