@@ -5,13 +5,6 @@ Kedah Branch Campus*
 Amirah Hazwani Abdul Rahim, is a senior lecturer at the Faculty of Computer Science and Mathematics, Universiti Teknologi MARA (UiTM), Kedah Branch Campus, Malaysia.
 
 ## A. Profil Pensyarah
-
-<!-- | Nama | No. Pekerja | Bidang Penghususan | Fakulti / Pusat / Kampus | Jawatan | Gred Jawatan / Pangkat | Status Pekerjaan | Warganegara | -->
-
-<!-- |------|-------------|--------------------|----------------------|---------|----------------------|------------------|------------------| -->
-
-<!-- | AMIRAH HAZWANI BINTI ABDUL RAHIM | 288217 | STATISTIK | FSKM, UITM KEDAH | PENSYARAH KANAN | DM52 | TETAP / BERPENCEN | MALAYSIA |   -->
-
 1.  Nama: **AMIRAH HAZWANI BINTI ABDUL RAHIM**
 2.  No. Pekerja: **288217**
 3.  Bidang Penghususan: **STATISTIK**
@@ -92,13 +85,10 @@ Amirah Hazwani Abdul Rahim, is a senior lecturer at the Faculty of Computer Scie
 
 i)  Judul Buku/Bab Peranan Penerbit Negara/Negeri Penerbit Tarikh Diterbit
 
-<!-- -->
-
 1.  
 
 2.  
 
-<!-- -->
 
 ii) Artikel/Rencana
 
@@ -108,7 +98,6 @@ Tajuk Artikel/Rencana Nama Jurnal/Majalah Jid/Bil Penerbit Tarikh Diterbit
 
 2.  
 
-<!-- -->
 
 iii) Pembentangan Kertas Kerja
 
