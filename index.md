@@ -49,8 +49,6 @@ Amirah Hazwani Abdul Rahim, is a senior lecturer at the Faculty of Computer Scie
 | PENSYARAH | KOLEJ UNIKOP,BATU CAVES, SELANGOR |   2009-31/1/2011    |
 |           |                                   |                     |
 
-\
-
 ## E. Aktiviti Penyelidikan / Penulisan / Pengkaryaan / Pembentangan Kertas Kerja
 
 ### 1. Pembentangan Kertas Kerja
