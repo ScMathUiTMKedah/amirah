@@ -1,5 +1,3 @@
-![](https://scmathuitmkedah.github.io/ScMathUiTMKedah/images/amirah.jpg)
-
 **Amirah Hazwani Abdul Rahim**\
 *Universiti Teknologi MARA\
 Kedah Branch Campus*
