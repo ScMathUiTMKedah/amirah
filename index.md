@@ -116,13 +116,13 @@ Dari Hingga\
 3.  Sumbangan Profesional/Masyarakat
 
 | Nama Badan Profesional/Kebajikan  |  Jawatan   | Tarikh Dari | Tarikh Hingga |
-|:---------------------------------:|:----------:|:-----------:|:-------------:|
+|:----------------------------------|:----------:|:-----------:|:-------------:|
 | 1.                                |            |             |               |
 
 
 4.  Keahlian Dalam Badan Profesional
 
 | Nama Badan Profesional/Kebajikan  | No. Ahli | Jenis Keahlian | Peranan | Tarikh Dari | Tarikh Hingga |
-|:---------------------------------:|:--------:|:--------------:|:-------:|:-----------:|:-------------:|
+|:----------------------------------|:--------:|:--------------:|:-------:|:-----------:|:-------------:|
 | 1.                                |          |                |         |             |               |
 
